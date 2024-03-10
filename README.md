@@ -7,7 +7,7 @@
 - На главном экране отображается список товаров.
 <p align="center">
   <img src="screenshots/list_product_light.jpg" width="45%" alt="Светлая тема" /> &nbsp; &nbsp;
-  <img src="screenshots/list_product_dark.jpg" width="45%" alt="Темная тема" />
+  <img src="screenshots/product_list_dark.jpg" width="45%" alt="Темная тема" />
 </p>
 <p align="center">
   <em>Светлая тема</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Темная тема</em>
